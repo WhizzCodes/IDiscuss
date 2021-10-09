@@ -22,5 +22,5 @@ This project includes admin panel as well which makes 80% of the project dynamic
 
 9)  Go to http://localhost/ and click on IDiscuss
 
- **Thankyou!!**
+    **Thankyou!!**
 
