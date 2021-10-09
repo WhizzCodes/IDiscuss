@@ -22,5 +22,14 @@ This project includes admin panel as well which makes 80% of the project dynamic
 
 9)  Go to http://localhost/ and click on IDiscuss
 
+# Settings to configure Email Verfication via gmail
+
+1) Open "xampp/php/php.ini" file
+2) Find "mail function"
+3) On line 1950, change "SMTP=localhost" to "SMTP=smtp.gmail.com"
+4) On line 1097, chnage "smtp_port=25" to "smtp_port=587"
+5) On Line 1101, change ";sendmail_from = me@example.com" to "sendmail_from = youremail@gmail.com"
+6) On line 1105, change to "**sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"**"
+
    **Thankyou!!**
 
