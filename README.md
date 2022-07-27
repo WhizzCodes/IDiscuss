@@ -1,7 +1,7 @@
 # OnlineDiscussionForum
-This is "Online Discussion Forum" project in PHP and MySQL.
+This is "Online Discussion Forum" project using PHP and MySQL.
 In this Multiple user can raise a query and multiple users can slove their particular query in different Programming language forums.
-This project includes "admin panel" as well which makes 80% of the project dynamic.
+This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
 
 # How to run via Xampp Server? 
 1)  Download the Code zip file.
@@ -26,17 +26,17 @@ This project includes "admin panel" as well which makes 80% of the project dynam
 
 1) Open "xampp/php/php.ini" file
 2) Find "mail function"
-3) On line 1950, change **SMTP=localhost** to **SMTP=smtp.gmail.com**
-4) On line 1097, chnage **smtp_port=25** to **smtp_port=587**
-5) On Line 1101, change **;sendmail_from** = me@example.com" to **sendmail_from = YourEmail@gmail.com**
-6) On line 1105, change **;sendmail_path** = to **sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"**
+3) Change **SMTP=localhost** to **SMTP=smtp.gmail.com**
+4) Chnage **smtp_port=25** to **smtp_port=587**
+5) Change **;sendmail_from** = me@example.com" to **sendmail_from = YourEmail@gmail.com**
+6) Change **;sendmail_path** = to **sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"**
 
 7) Open "xampp/sendmail/sendmail.ini" file
-8) On Line 14, change **smtp_server=mail.mydomain.com** to **smtp_server=smtp.gmail.com**
-9) On Line 18, change **smtp_port=25** to **smtp_port=587**
-10) On Line 46, change **auth_username=** to **auth_username= YourEmail@gmail.com**
-11) On Line 47, change **auth_password=** to **auth_password=YourAppPassword** (If you Don't have an app password, Generate new form your Gmail Account)
-12) On Line 60, change **force_sender=** to **force_sender= YourEmail@gmail.com**
+8) Change **smtp_server=mail.mydomain.com** to **smtp_server=smtp.gmail.com**
+9) Change **smtp_port=25** to **smtp_port=587**
+10) Change **auth_username=** to **auth_username= YourEmail@gmail.com**
+11) Change **auth_password=** to **auth_password=YourAppPassword** (If you Don't have an app password, Generate new form your Gmail Account)
+12) Change **force_sender=** to **force_sender= YourEmail@gmail.com**
 
    **Thankyou!!**
 
