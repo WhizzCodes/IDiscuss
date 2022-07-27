@@ -28,8 +28,8 @@ This project includes "admin panel" as well as "user panel" which makes 90% of t
 2) Find "mail function"
 3) Change **SMTP=localhost** to **SMTP=smtp.gmail.com**
 4) Chnage **smtp_port=25** to **smtp_port=587**
-5) Change **;sendmail_from** = me@example.com" to **sendmail_from = YourEmail@gmail.com**
-6) Change **;sendmail_path** = to **sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"**
+5) Change **sendmail_from** = me@example.com" to **sendmail_from = YourEmail@gmail.com**
+6) Change **sendmail_path** = to **sendmail_path = "\"C:\xampp\sendmail\sendmail.exe\" -t"**
 
 7) Open "xampp/sendmail/sendmail.ini" file
 8) Change **smtp_server=mail.mydomain.com** to **smtp_server=smtp.gmail.com**
