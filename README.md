@@ -24,9 +24,14 @@ This project includes "admin panel" as well as "user panel" which makes 90% of t
 When forum is empty (no queries posted by users yet )
 
 When forum is not empty (queries posted by users)
-View Selected Question Page
-➢ When no answers commented to a particular question
-➢ When Answers commented to a particular question
+
+**View Selected Question Page**
+
+When no answers commented to a particular question
+
+When Answers commented to a particular question
+
+
 
 
 # How to run via Xampp Server? 
