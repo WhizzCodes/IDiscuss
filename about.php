@@ -8,7 +8,7 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
-    <title>Page 1</title>
+    <title>About</title>
     <link rel="stylesheet" href="css/nicepage.css" media="screen">
 <link rel="stylesheet" href="css/about.css" media="screen">
     <script class="u-script" type="text/javascript" src="js/jquery.js" defer=""></script>
@@ -43,9 +43,9 @@
               <div class="u-container-style u-layout-cell u-left-cell u-size-34 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
                   <h2 class="u-align-center-sm u-align-center-xs u-text u-text-1" data-animation-name="fadeIn" data-animation-duration="750" data-animation-delay="0">About Us</h2>
-                  <p class="u-text u-text-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">Empowering the world to develop technology through collective knowledge.</p>
-<p class="u-text u-text-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">Founded in 2021 by Preeti Guin.<br>
-IDiscuss public platform is used by nearly everyone who codes to learn, share their knowledge, collaborate, and build their careers.
+                  <p class="u-text u-text-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">Created in 2021 by Preeti Guin.</p>
+<p class="u-text u-text-2" data-animation-name="fadeIn" data-animation-duration="1000" data-animation-delay="0" data-animation-direction="">IDiscuss is a public platform used nearly by everyone who codes to learn, share their knowledge, collaborate, and build their careers. <br>
+View <a href="projectdesc.php">Project Desctiption</a>
 </p>
                 </div>
               </div>
