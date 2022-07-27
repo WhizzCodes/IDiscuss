@@ -6,6 +6,9 @@ This project includes "admin panel" as well as "user panel" which makes 90% of t
 Home Page
 
 ![image-000](https://user-images.githubusercontent.com/74658164/181384523-78ada5e3-51b9-4422-af52-2d1a723c6709.jpg)
+Forum Page
+
+![image-001](https://user-images.githubusercontent.com/74658164/181384658-13fc5572-4a75-4b45-9e4e-d6720579b062.jpg)
 
 # How to run via Xampp Server? 
 1)  Download the Code zip file.
