@@ -11,6 +11,10 @@ Forum Page
 
 ![image-001](https://user-images.githubusercontent.com/74658164/181384658-13fc5572-4a75-4b45-9e4e-d6720579b062.jpg)
 
+**Article Page**
+
+![image-002](https://user-images.githubusercontent.com/74658164/181384802-52b906fa-67bb-4585-a130-88a54c7ff6df.jpg)
+
 # How to run via Xampp Server? 
 1)  Download the Code zip file.
 
