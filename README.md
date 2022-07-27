@@ -2,37 +2,6 @@
 This is "Online Discussion Forum" project using PHP and MySQL.
 In this Multiple user can raise a query and multiple users can slove their particular query in different Programming language forums.
 This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
-# Screenshot
-**Home Page
-
-![image-000](https://user-images.githubusercontent.com/74658164/181384523-78ada5e3-51b9-4422-af52-2d1a723c6709.jpg)
-
-**Forum Page**
-
-![image-001](https://user-images.githubusercontent.com/74658164/181384658-13fc5572-4a75-4b45-9e4e-d6720579b062.jpg)
-
-**Article Page**
-
-![image-002](https://user-images.githubusercontent.com/74658164/181384802-52b906fa-67bb-4585-a130-88a54c7ff6df.jpg)
-
-**About Page**
-
-![image-003](https://user-images.githubusercontent.com/74658164/181384905-70a89f38-f070-4884-bf06-921f0b186eca.jpg)
-
-**View Selected Forum Page**
-
-When forum is empty (no queries posted by users yet )
-
-When forum is not empty (queries posted by users)
-
-**View Selected Question Page**
-
-When no answers commented to a particular question
-
-When Answers commented to a particular question
-
-
-
 
 # How to run via Xampp Server? 
 1)  Download the Code zip file.
