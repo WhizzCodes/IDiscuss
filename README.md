@@ -3,6 +3,10 @@ This is "Online Discussion Forum" project using PHP and MySQL.
 In this Multiple user can raise a query and multiple users can slove their particular query in different Programming language forums.
 This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
 
+# Screenshots
+
+[a link] https://github.com/WhizzCodes/IDiscuss/blob/main/Screenshot%20Full%20Implementation/PreetiGuin_Implementation_IDISCUSS.pdf
+
 # How to run via Xampp Server? 
 1)  Download the Code zip file.
 
