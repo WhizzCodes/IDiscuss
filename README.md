@@ -72,7 +72,7 @@ https://github.com/WhizzCodes/IDiscuss/blob/main/Screenshot%20Full%20Implementat
 
 # Author
  Preeti Guin
- ![download](https://user-images.githubusercontent.com/74658164/181393699-9fe61334-6bc1-4678-b3f8-33a46121d43a.png)
-
+ 
+![download](https://user-images.githubusercontent.com/74658164/181393829-e45d6fc4-d65a-46eb-bbe2-8155a898d16f.png)
 
 
