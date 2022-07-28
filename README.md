@@ -70,7 +70,8 @@ https://github.com/WhizzCodes/IDiscuss/blob/main/Screenshot%20Full%20Implementat
 11) Change **auth_password=** to **auth_password=YourAppPassword** (If you Don't have an app password, Generate new form your Gmail Account)
 12) Change **force_sender=** to **force_sender= YourEmail@gmail.com**
 
-**Author**
-Preeti Guin
-**Thankyou!!**
+# Author
+ Preeti Guin
+
+
 
