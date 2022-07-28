@@ -1,7 +1,7 @@
 # IDiscuss
 This is an "Online Discussion Forum" named as "IDiscuss" created using "HTML, CSS, JavaScript, Bootstrap, PHP and MySQL".
 
-The Main objective of this is Multiple user can raise query and multiple users can slove a particular query in different forums. This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
+The Main objective of this is Multiple user can raise query and multiple users can slove a particular query in different forums. This project includes "admin panel" as well as "user panel" which makes 95% of the project dynamic.
 
 # Screenshots
 
