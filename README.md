@@ -1,7 +1,31 @@
 # OnlineDiscussionForum
-This is "Online Discussion Forum" project using PHP and MySQL.
-In this Multiple user can raise a query and multiple users can slove their particular query in different Programming language forums.
-This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
+This is an "Online Discussion Forum" named as "IDiscuss" created using "HTML, CSS, JavaScript, Bootstrap, PHP and MySQL".
+
+The Main objective of this is Multiple user can raise query and multiple users can slove a particular query in different forums. This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
+
+Non-User Functions:
+-View Forums/Questions/Comments/Articels
+-Signup
+
+User Functions:
+-Login
+-Forgot Password
+-Edit Profile
+-Post Question/Answers/Article
+-Edit Question/Answers/Article
+-Delete Question/Answers/Article
+-Submit Testemonials -Logout
+
+Admin Functions:
+-Login
+-Forgot Password
+-Edit Profile
+-Add New Admin
+-Add/Edit Forums
+-Delete Admin/Forums/Articles
+-Remove/Add Testemonials after verifying
+-View/Delete Contact us Inbox
+-Logout
 
 # Screenshots
 
