@@ -10,26 +10,26 @@ The Main objective of this is Multiple user can raise query and multiple users c
 
 **User Functions:**
 
-1)Login
-2)Forgot Password
-3)Edit Profile
-4)Post Question/Answers/Article
-5)Edit Question/Answers/Article
-6)Delete Question/Answers/Article
-7)Submit Testemonials
-8)Logout
+1) Login
+2) Forgot Password
+3) Edit Profile
+4) Post Question/Answers/Article
+5) Edit Question/Answers/Article
+6) Delete Question/Answers/Article
+7) Submit Testemonials
+8) Logout
 
 **Admin Functions:**
 
-1)Login
-2)Forgot Password
-3)Edit Profile
-4)Add New Admin
-5)Add/Edit Forums
-6)Delete Admin/Forums/Articles
-7)Remove/Add Testemonials after verifying
-8)View/Delete Contact us Inbox
-9)Logout
+1) Login
+2) Forgot Password
+3) Edit Profile
+4) Add New Admin
+5) Add/Edit Forums
+6) Delete Admin/Forums/Articles
+7) Remove/Add Testemonials after verifying
+8) View/Delete Contact us Inbox
+9) Logout
 
 # Screenshots
 
