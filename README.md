@@ -3,6 +3,31 @@ This is an "Online Discussion Forum" named as "IDiscuss" created using "HTML, CS
 
 The Main objective of this is Multiple user can raise query and multiple users can slove a particular query in different forums. This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
 
+# Screenshots
+
+https://github.com/WhizzCodes/IDiscuss/blob/main/Screenshot%20Full%20Implementation/PreetiGuin_Implementation_IDISCUSS.pdf
+
+# How to run via Xampp Server? 
+1)  Download the Code zip file.
+
+2)  Click on "Extract Here" option to extract the downloaded zip file
+
+3)  Change the folder name from "IDiscuss-main" to "IDiscuss"
+
+4)  Extract the IDiscuss/admin/vendor/fontawesome-free/svgs.zip to IDiscuss/admin/vendor/fontawesome-free/svgs and IDiscuss/ckeditor.zip to IDiscuss/ckeditor
+
+5)  Copy and Paste the "IDiscuss" folder in your "xampp/htdocs" folder
+
+6)  Start Appache and MySQL from xampp control panel.
+ 
+7)  Go to http://localhost/phpmyadmin/
+
+8)  Import the database from "xampp/htdocs/IDiscuss/import db/online_discussion_forum".
+
+9)  Go to http://localhost/ and click on IDiscuss
+
+# Functions
+
 **Non-User Functions:**
 
 1) View Forums/Questions/Comments/Articels 
@@ -31,28 +56,6 @@ The Main objective of this is Multiple user can raise query and multiple users c
 8) View/Delete Contact us Inbox
 9) Logout
 
-# Screenshots
-
-https://github.com/WhizzCodes/IDiscuss/blob/main/Screenshot%20Full%20Implementation/PreetiGuin_Implementation_IDISCUSS.pdf
-
-# How to run via Xampp Server? 
-1)  Download the Code zip file.
-
-2)  Click on "Extract Here" option to extract the downloaded zip file
-
-3)  Change the folder name from "IDiscuss-main" to "IDiscuss"
-
-4)  Extract the IDiscuss/admin/vendor/fontawesome-free/svgs.zip to IDiscuss/admin/vendor/fontawesome-free/svgs and IDiscuss/ckeditor.zip to IDiscuss/ckeditor
-
-5)  Copy and Paste the "IDiscuss" folder in your "xampp/htdocs" folder
-
-6)  Start Appache and MySQL from xampp control panel.
- 
-7)  Go to http://localhost/phpmyadmin/
-
-8)  Import the database from "xampp/htdocs/IDiscuss/import db/online_discussion_forum".
-
-9)  Go to http://localhost/ and click on IDiscuss
 
 # Settings to configure Email Verfication via gmail
 
