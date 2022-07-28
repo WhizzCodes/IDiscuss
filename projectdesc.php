@@ -73,9 +73,6 @@
 
 <p>
 
-<p><b>Screenshots :</b></p>
-
-
                 </div>
               </div>
             </div>
