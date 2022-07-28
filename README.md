@@ -5,7 +5,8 @@ The Main objective of this is Multiple user can raise query and multiple users c
 
 **Non-User Functions:**
 
--View Forums/Questions/Comments/Articels -Signup
+-View Forums/Questions/Comments/Articels 
+-Signup
 
 **User Functions:**
 
