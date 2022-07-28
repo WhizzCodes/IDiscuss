@@ -3,32 +3,15 @@ This is an "Online Discussion Forum" named as "IDiscuss" created using "HTML, CS
 
 The Main objective of this is Multiple user can raise query and multiple users can slove a particular query in different forums. This project includes "admin panel" as well as "user panel" which makes 90% of the project dynamic.
 
-Non-User Functions:
+**Non-User Functions:**
 
--View Forums/Questions/Comments/Articels
+-View Forums/Questions/Comments/Articels -Signup
 
--Signup
+**User Functions:**
 
-User Functions:
+-Login-Forgot Password-Edit Profile-Post Question/Answers/Article-Edit Question/Answers/Article-Delete Question/Answers/Article-Submit Testemonials-Logout
 
--Login
-
--Forgot Password
-
--Edit Profile
-
--Post Question/Answers/Article
-
--Edit Question/Answers/Article
-
--Delete Question/Answers/Article
-
--Submit Testemonials 
-
--Logout
-
-
-Admin Functions:
+**Admin Functions:**
 
 -Login
 
