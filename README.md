@@ -5,32 +5,31 @@ The Main objective of this is Multiple user can raise query and multiple users c
 
 **Non-User Functions:**
 
--View Forums/Questions/Comments/Articels 
--Signup
+1) View Forums/Questions/Comments/Articels 
+2) Signup
 
 **User Functions:**
 
--Login-Forgot Password-Edit Profile-Post Question/Answers/Article-Edit Question/Answers/Article-Delete Question/Answers/Article-Submit Testemonials-Logout
+1)Login
+2)Forgot Password
+3)Edit Profile
+4)Post Question/Answers/Article
+5)Edit Question/Answers/Article
+6)Delete Question/Answers/Article
+7)Submit Testemonials
+8)Logout
 
 **Admin Functions:**
 
--Login
-
--Forgot Password
-
--Edit Profile
-
--Add New Admin
-
--Add/Edit Forums
-
--Delete Admin/Forums/Articles
-
--Remove/Add Testemonials after verifying
-
--View/Delete Contact us Inbox
-
--Logout
+1)Login
+2)Forgot Password
+3)Edit Profile
+4)Add New Admin
+5)Add/Edit Forums
+6)Delete Admin/Forums/Articles
+7)Remove/Add Testemonials after verifying
+8)View/Delete Contact us Inbox
+9)Logout
 
 # Screenshots
 
